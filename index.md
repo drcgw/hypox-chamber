@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to the CWilsonLab -- Hypoxia Chamber
+
+The purpose of this chamber is to provide labs with the instructions and files to recreate our environmental monitoring hypoxia chamber. This chamber is designed using free open-source software and inexpensive sensors to monitor the environment inside and outside the chamber. It is easily modified to accomidate many different experimental designs and allow for expansion of the system if needed. The code is python based to allow for easy modification by researches with moderate coding background. 
 
 You can use the [editor on GitHub](https://github.com/drcgw/hypox-chamber/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
