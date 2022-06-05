@@ -15,21 +15,25 @@ Custom PCB boards and 3D printed parts make modification and adjustment of the d
 
 ### Contact Information & Publication Information
 An Inexpensive Open-source Chamber for Controlled Hypoxia/Hyperoxia Exposure
+
 Frontiers in Science
+
 Tyler C Hillman1, Ryan Idnani, and Christopher G Wilson1,2
 1. Lawrence D. Longo, MD Center for Perinatal Biology
 2. Department of Pediatrics, Loma Linda University Medical Center
+
 Loma Linda University, School of Medicine
+
 Loma Linda CA. 92350
  
 Keywords: Hypoxia, Ischemia, Neonate, Stroke, Inflammation, Biomarkers
   
 Corresponding Author:
-Christopher G. Wilson, PhD
-11223 Campus St
-Loma Linda CA. 92350
-Desk: 909-651-5895
-Email: cgwilson@llu.edu
+Christopher G. Wilson, PhD |
+11223 Campus St |
+Loma Linda CA. 92350 |
+Desk: 909-651-5895 |
+Email: cgwilson@llu.edu 
 
 ### Support or Contact
 
